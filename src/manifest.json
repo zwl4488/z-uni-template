@@ -1,0 +1,15 @@
+{
+    "name": "z-uni-template",
+    "appid": "",
+    "description": "A wechat mini-program template based on uni-app.",
+    "versionName": "1.0.0",
+    "versionCode": "100",
+    "transformPx": false,
+    "mp-weixin": {
+        "usingComponents": true,
+        "appid": "wxeba7ce6c6c9313a9",
+        "setting": {
+            "urlCheck": false
+        }
+    }
+}

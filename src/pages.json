@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "default",
+				"pageOrientation": "portrait"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#FFF",
+		"backgroundColor": "#FFF",
+		"navigationStyle": "custom"
+	},
+	"condition": {
+		"current": -1,
+		"list": []
+	}
+}
