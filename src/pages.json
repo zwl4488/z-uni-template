@@ -3,6 +3,7 @@
 		{
 			"path": "pages/index/index",
 			"style": {
+				"navigationBarTitleText": "z-uni-template",
 				"navigationStyle": "default",
 				"pageOrientation": "portrait"
 			}
