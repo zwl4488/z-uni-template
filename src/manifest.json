@@ -7,9 +7,10 @@
     "transformPx": false,
     "mp-weixin": {
         "usingComponents": true,
-        "appid": "wxeba7ce6c6c9313a9",
+        "appid": "your appid",
         "setting": {
             "urlCheck": false
         }
-    }
+    },
+    "cloudfunctionRoot": "./cloudfunctions/"
 }

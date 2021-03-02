@@ -9,6 +9,9 @@ A wechat mini-program template based on uni-app.
  * 网络请求模块
  * 基础登陆逻辑
 
+### 更新日志
+ * v1.1.0 支持云函数，在src新增cloudfunctions路径即可，建议提前安装云函数依赖
+
 ### Project setup
 ```
 npm i

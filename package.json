@@ -1,6 +1,6 @@
 {
   "name": "z-uni-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A wechat mini-program template based on uni-app.",
   "author": "michaelZ",
   "scripts": {
@@ -36,6 +36,7 @@
     "@vue/cli-plugin-typescript": "*",
     "@vue/cli-service": "~4.4.0",
     "babel-plugin-import": "^1.11.0",
+    "copy-webpack-plugin": "5.0.0",
     "cross-env": "^7.0.2",
     "jest": "^25.4.0",
     "mini-types": "*",
