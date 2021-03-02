@@ -10,7 +10,7 @@
         "appid": "your appid",
         "setting": {
             "urlCheck": false
-        }
-    },
-    "cloudfunctionRoot": "./cloudfunctions/"
+        },
+        "cloudfunctionRoot": "./cloudfunctions/"
+    }
 }
